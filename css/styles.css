@@ -1,0 +1,36 @@
+.flashy {
+  color: red;
+  font-family: sans-serif;
+  font-style: italic;
+  text-align: center;
+}
+.best
+  {
+  font-size: 64px;
+  font-weight: bolder;
+  color: navy;
+}
+p {
+  color: #3D9BB7;
+  font-family: sans-serif;
+  font-style: italic;
+  text-align: center;
+}
+h1 {
+  color: #3D9BB7;
+  font-family: sans-serif;
+  font-style: italic;
+  font-size: 72px;
+  font-weight: bolder;
+  font-stretch: extra-expanded;
+  text-align: center;
+}
+h2 {
+  color: #3D9BB7;
+  font-family: sans-serif;
+  font-style: italic;
+  font-size: 36px;
+  font-weight: bolder;
+  font-stretch: extra-expanded;
+  text-align: center;
+}
